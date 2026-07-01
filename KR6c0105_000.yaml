@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0105/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 御注金剛般若波羅蜜經宣演
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2733.xml
+    old_id: T85n2733
+hash: sha256:f9f35ff44b6cb6e4615e610f7e6c62ec38c9b6304b8eb3908e447e536f4b0ca8
